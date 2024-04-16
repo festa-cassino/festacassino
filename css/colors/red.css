@@ -1,0 +1,134 @@
+/* Define the base color */
+/* Common styles & typography */
+a,
+a:hover,
+a:focus,
+a:active {
+  color: #641719;
+}
+.section-heading {
+  border-color: #641719;
+}
+.button,
+.tp-button {
+  background-color: #e9e4a1;
+}
+.bullets .active a,
+.arrow-left:hover,
+.arrow-right:hover {
+  background-color: #641719;
+}
+/* Navigation */
+.navbar-toggle .icon-bar {
+  background-color: #641719;
+}
+.nav li > a:hover,
+.nav li.active > a:hover{
+  color: #641719;
+}
+/* Featured portfolio */
+.featured .overlay {
+  background-color: #641719;
+}
+.full-portfolio .fa {
+  color: #641719;
+}
+/* Feature box */
+.feature-box > .fa {
+  color: #641719;
+}
+/*divider */
+.spacer {
+  background-color: #641719;
+}
+/* Services */
+.service:hover .circle {
+  -webkit-box-shadow: inset #641719 0 0 0 5px;
+  -moz-box-shadow: inset #641719 0 0 0 5px;
+  -ms-box-shadow: inset #641719 0 0 0 5px;
+  -o-box-shadow: inset #641719 0 0 0 5px;
+  box-shadow: inset #641719 0 0 0 5px;
+}
+.service .circle .fa {
+  color: #641719;
+}
+.service .circle:before {
+  background-color: #641719;
+}
+/* Testimonials */
+.testimonial .info em {
+  color: #641719;
+}
+/* Facts */
+.facts .count {
+  color: #641719;
+}
+/* Team */
+.team:hover {
+  background: #641719;
+}
+.social a:hover {
+  color: #641719;
+}
+/* Skill */
+.skill .bar .value {
+  background: #641719;
+}
+/* Portfolio */
+.portfolio .overlay {
+background:rgba(242,51,58,0.8)
+}
+
+
+.portfolio-filter .filter.active, .portfolio-filter li.active a{
+  background: #641719;
+  color:#e9e4a1;
+}
+
+/* Twitter icon */
+.twitter-icon:after {
+  background: #641719;
+}
+/* Contact section */
+.address .fa {
+  color: #641719;
+}
+/* Footer */
+footer {
+  background: #641719;
+}
+/* Slider revolution */
+.tp-leftarrow.default:hover,
+.tp-rightarrow.default:hover,
+.tp-bullets .bullet.selected {
+  background-color: #641719 !important;
+}
+
+
+#portfolio-list li .more { 
+background:#641719;
+border: 2px solid #641719;
+}
+
+
+
+.nav li:hover:after {
+background:#641719;
+}
+
+
+.nav li a:hover{
+border-bottom:1px solid #641719;
+}
+
+
+
+.flex-control-paging li a.flex-active{
+  background-color: #641719;
+}
+
+
+.hostingicon i {
+  background-color: #641719;
+}
+

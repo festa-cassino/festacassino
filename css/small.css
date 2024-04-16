@@ -1,0 +1,46 @@
+/* Common styles & typography */
+.section-heading {
+    font-size: 30px;
+    line-height: 30px;
+}
+
+/* Navigation */
+.navbar,
+.navbar-collapse {
+		background-color:rgba(0,0,0,0.1);
+
+}
+.navbar-nav {
+    margin-bottom: 0;
+	
+}
+.navbar-brand {
+}
+.nav li > a,
+.nav li > a:hover,
+.nav li > a:visited,
+.nav li > a:active,
+.nav li > a:focus {
+    position: relative;
+    height: 90px;
+    line-height: 90px;
+    padding: 0 15px !important;
+    margin: 0;
+}
+
+
+
+/* Services */
+.service {
+    height: 142px;
+}
+.service .popup {
+    position: absolute;
+    bottom: 160px;
+    left: 0;
+    opacity: 0;
+}
+.service:hover .popup {
+    bottom: 145px;
+    opacity: 1;
+}

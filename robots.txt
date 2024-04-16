@@ -1,0 +1,3 @@
+﻿User-Agent: *
+
+Sitemap: http://mzyhibkauo.temp.swtest.ru/sitemap.xml
